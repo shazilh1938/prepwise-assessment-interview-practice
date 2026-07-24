@@ -1,0 +1,49 @@
+name: Company assessment correction
+description: Report public company-assessment information that may be outdated or inaccurate.
+title: "[Company evidence] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not share live assessment questions, invitation links, screenshots, personal data or confidential material.
+  - type: input
+    id: company
+    attributes:
+      label: Company or programme
+      placeholder: Company, programme and role
+    validations:
+      required: true
+  - type: input
+    id: market
+    attributes:
+      label: Country and application year
+      placeholder: United Kingdom, 2026
+    validations:
+      required: true
+  - type: textarea
+    id: statement
+    attributes:
+      label: Statement that needs review
+      description: Quote or summarise the public Prepwise claim that may be outdated.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official public source
+      description: Link to a current employer or assessment-provider page where possible.
+      placeholder: https://
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Explain what changed without sharing confidential content.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Content check
+      options:
+        - label: I removed personal data, live assessment content and confidential material.
+          required: true
