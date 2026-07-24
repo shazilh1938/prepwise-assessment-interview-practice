@@ -1,14 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
   <title id="title">Prepwise assessment and interview practice</title>
-  <desc id="desc">Prepwise combines assessment games, one-way video interview practice and transcript-based coaching.</desc>
-  <rect width="1280" height="640" fill="#091225"/>
-  <rect x="64" y="64" width="1152" height="512" rx="24" fill="#112447" stroke="#1f5778" stroke-width="2"/>
-  <rect x="112" y="112" width="44" height="44" rx="12" fill="#16d5bf"/>
-  <text x="176" y="146" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#eef4ff">Prepwise</text>
-  <text x="112" y="278" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#eef4ff">Assessment games.</text>
-  <text x="112" y="356" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#24c9e7">Interview practice.</text>
-  <text x="112" y="434" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#16d5bf">Transcript coaching.</text>
-  <text x="112" y="510" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#a9bbd8">Independent preparation for game-based assessments and video interviews.</text>
-  <text x="1054" y="146" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#16d5bf">prepwise.work</text>
-</svg>
+  <desc id="desc">Practice assessment games, rehearse video interviews and improve every answer with transcript-based coaching.</desc>
 
+  <rect width="1280" height="640" fill="#071020"/>
+  <rect x="36" y="36" width="1208" height="568" rx="28" fill="#0d1b35" stroke="#1d4e74" stroke-width="2"/>
+
+  <rect x="80" y="72" width="42" height="42" rx="11" fill="#16d5bf"/>
+  <rect x="80" y="93" width="42" height="21" rx="0" fill="#21aaf2"/>
+  <text x="142" y="105" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#f2f6ff">Prepwise</text>
+  <text x="1128" y="103" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#16d5bf">prepwise.work</text>
+
+  <text x="80" y="210" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#ffcf5a">ASSESSMENT + INTERVIEW PRACTICE</text>
+  <text x="80" y="282" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#f2f6ff">Practise the games.</text>
+  <text x="80" y="347" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#24c9e7">Rehearse the interview.</text>
+  <text x="80" y="412" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#16d5bf">Improve every answer.</text>
+
+  <rect x="80" y="472" width="174" height="42" rx="21" fill="#132b50" stroke="#23649a"/>
+  <text x="167" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#d8e6fb">Assessment games</text>
+  <rect x="268" y="472" width="176" height="42" rx="21" fill="#132b50" stroke="#23649a"/>
+  <text x="356" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#d8e6fb">One-way video</text>
+  <rect x="458" y="472" width="162" height="42" rx="21" fill="#123a45" stroke="#168b82"/>
+  <text x="539" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#d8fff9">AI coaching</text>
+  <text x="80" y="555" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#9fb2d0">Train the full assessment flow before test day.</text>
+
+  <rect x="696" y="150" width="488" height="386" rx="20" fill="#11264a" stroke="#237879" stroke-width="2"/>
+  <text x="728" y="190" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#16d5bf">EXAMPLE AI COACHING</text>
+  <text x="728" y="230" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#9fb2d0">QUESTION</text>
+  <text x="728" y="260" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#f2f6ff">Managing competing deadlines</text>
+
+  <line x1="728" y1="284" x2="1152" y2="284" stroke="#284b79"/>
+  <text x="728" y="322" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#f2f6ff">Coach rating</text>
+  <text x="1152" y="328" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#16d5bf">4/5</text>
+
+  <rect x="728" y="354" width="424" height="66" rx="12" fill="#172f57" stroke="#31537c"/>
+  <text x="748" y="381" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffcf5a">MISSING POINT</text>
+  <text x="748" y="405" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8e6fb">Quantify the result so the impact is clear.</text>
+
+  <rect x="728" y="434" width="424" height="66" rx="12" fill="#172f57" stroke="#31537c"/>
+  <text x="748" y="461" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#24c9e7">REWRITE FOCUS</text>
+  <text x="748" y="485" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#d8e6fb">Name the trade-off, action and measurable outcome.</text>
+</svg>
